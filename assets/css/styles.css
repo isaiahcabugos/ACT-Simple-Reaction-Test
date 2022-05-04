@@ -1,0 +1,15 @@
+.canvas-parent {
+    cursor: pointer;
+    width: 100%;
+    height: 400px;
+    background: #0094ff;
+    border: 4px solid #a3a3a3;
+}
+
+.canvas-parent-rapid {
+    cursor: pointer;
+    width: 100%;
+    height: 400px;
+    background: #38bdb0;
+    border: 4px solid #a3a3a3;
+}
