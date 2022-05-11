@@ -51,6 +51,7 @@ function get_random_time(min, max) {
     return result;
 }
 
+/* Called whenever the game ends */
 function end_game() {
     clearTimeout(timeout1);
     clearTimeout(timeout2);
@@ -205,7 +206,7 @@ function timeout4_function(time){
             time_later = date2.getTime();
             play_time = (time_later - time_now);
 
-            if (mousePos.x < center.cx + 59 && mousePos.y < center.cy + 55) {
+            if (mousePos.x < center.cx + 55 && mousePos.y < center.cy + 55) {
                 time_text_accuracy.innerHTML = play_time + " ms";
 
                 /* Records player's score in 'your times' section */
