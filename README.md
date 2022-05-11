@@ -11,6 +11,8 @@ The unfinished game is a modification of the first game -- the user quickly take
 
 The remaining issues have to do with adjustments to the website layout and other small features.
 
+Link to an online version of the website: https://act-simple-reaction-test.vercel.app/
+
 <h1> In order to contribute </h1>
 <ul>
   <li><h2> Set Up Your Environment </h2>
