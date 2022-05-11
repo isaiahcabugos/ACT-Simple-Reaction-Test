@@ -22,7 +22,7 @@ The remaining issues have to do with adjustments to the website layout and other
     <ul>
       <li> All "common sense" coding standards will apply. This means self-explanatory variable names and relatively readable code. </li>
       <li> Documenting functions and sections of code via comments is highly recommended. </li>
-      <li> The issues I have listed should not need additional files to be created. If you worked in another file which you created, I would greatly appreciate if you merged your code into one of the available files. (In other words, the only files which need to be modified should be <code>index.html</code>, <code>main.css</code>, <code>styles.css</code>, <code>reactiontest.js</code>, and <code>graph.js</code>. </li>     
+      <li> The issues I have listed should not need additional files to be created. If you worked in another file which you created, I would greatly appreciate if you merged your code into one of the available files. (In other words, the only files which need to be modified should be <code>index.html</code>, <code>main.css</code>, <code>styles.css</code>, <code>reactiontest.js</code>, and <code>graph.js</code>). </li>     
     </ul>
   </li>
   
