@@ -6,6 +6,13 @@
     border: 4px solid #a3a3a3;
 }
 
+.canvas-parent-2 {
+    width: 100%;
+    height: 400px;
+    background: #9cc2f6;
+    border: 2px solid #808080;
+}
+
 .canvas-parent-rapid {
     cursor: pointer;
     width: 100%;
