@@ -266,6 +266,8 @@ input, select, textarea {
 
 	.row {
 		display: flex;
+		justify-content: center;
+ 		align-items: center;
 		flex-wrap: wrap;
 		box-sizing: border-box;
 		align-items: stretch;
@@ -2201,7 +2203,7 @@ input, select, textarea {
 
 		.box.highlight h2 {
 			font-size: 3em;
-			margin: 0 0 0.25em 0;
+			margin: 0em 0 0.25em 0;
 		}
 
 		.box.highlight header > p {
@@ -2212,7 +2214,8 @@ input, select, textarea {
 	.box.feature {
 		text-align: center;
 		border: 2px solid #c1cac5;
-		padding: 2em 2em 2em 2em
+		padding: 15em 2em 2em 2em;
+        
 	}
 
 	.box.post header {
@@ -2260,7 +2263,23 @@ input, select, textarea {
 	.box.page-content ul.meta {
 		margin: 0 0 0.5em 0;
 	}
+ /* Score Section */
 
+	.score_accuracy
+	{
+		position: relative; 
+		top: -200px;
+	}
+	.score_rapid
+	{
+		position: relative; 
+		top: -200px;
+	}
+	.score_traditional
+	{
+		position: relative; 
+		top: -200px;
+	}
 /* Icons */
 
 	.icon {
